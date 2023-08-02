@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SiteFullApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(SiteFullApplication.class, args);
 	}
 
