@@ -31,5 +31,18 @@ Aplicación completa de JSB
 °
 °
 °
+-->Schema
+Based in directories separated by types (Clases and Intefaces)
 
+First:
+Documents directory is created for percistence collections, a class generate the schema for data can by storage in MongoDB monitored with Compass.
+The class named Usuarios, directly related with @Document(Spring Documentation) for MongoDB.mapping
+
+Second:
+Repositories directory is created for interface will retrive data
+
+Third:
+Controllers directory storage endpoints URI API's
+
+## Security
 (security password: 3ba18cc7-29b8-4557-94a2-97c7643e7435)
