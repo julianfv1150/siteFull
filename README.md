@@ -9,6 +9,9 @@ Aplicación completa de JSB
     * Git remove remote origin master
     * Git remote add origin  https://github.com/julianfv1150/siteFull.git
 
+----------------
+    When initiate work on other device we need clone the REPO, navegate to the directory, in, change the branch and now execute 'git pull origin'. The project will be updated.
+
 ## Dependencies Injection JSB
     -> Spring JPA
     -> Spring MongDB
@@ -25,12 +28,7 @@ Aplicación completa de JSB
 ## Functionalities & schema
 (BASED ON MAVEN)    
 
-° 
-°
-°
-°
-°
-°
+-->Functionalities
 -->Schema
 Based in directories separated by types (Clases and Intefaces)
 
